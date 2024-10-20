@@ -85,8 +85,10 @@ while True:
 ```
 ## Output:
 ## Client:
+![image](https://github.com/user-attachments/assets/e38917d0-5f6c-47fb-864e-50fb7dc9e9c1)
 
 ## Server:
+![image](https://github.com/user-attachments/assets/7dab8bc9-feb5-4438-86ac-a085bbc4ac7e)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
